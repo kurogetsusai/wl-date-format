@@ -1,0 +1,26 @@
+{
+	"name": "wl-date-format",
+	"version": "0.1.0",
+	"description": "Adds an option to change the date format on WL.",
+	"main": "wl-date-format.user.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kurogetsusai/wl-date-format.git"
+	},
+	"keywords": [
+		"userjs",
+		"javascript"
+	],
+	"author": "Sai Kurogetsu",
+	"license": "Unlicense",
+	"bugs": {
+		"url": "https://github.com/kurogetsusai/wl-date-format/issues"
+	},
+	"homepage": "https://github.com/kurogetsusai/wl-date-format#readme",
+	"devDependencies": {
+		"eslint": "^3.18.0"
+	}
+}
